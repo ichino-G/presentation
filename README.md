@@ -1,2 +1,2 @@
 # presentation
-[プレゼンテーション](https://gitpitch.com/user/repo)
+[https://gitpitch.com/ichino-G/presentation](https://gitpitch.com/ichino-G/presentation)
